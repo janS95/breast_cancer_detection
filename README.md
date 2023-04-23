@@ -5,4 +5,5 @@
 * Scaled the dataset with StandardScaler()
 * Trained a Logistic Regression Model
 * Evaluation showed a accuracy of about 97 %
-* <img src="">
+
+<img src="https://github.com/janS95/breast_cancer_detection/blob/main/images/confusion_matrix.png">
